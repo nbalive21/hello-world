@@ -4,8 +4,8 @@ import datetime
 
 # upbit access key, secret key 
 # 암호화 되어 전송필요
-access = "lmoxJYzrskVd5PTvm5kXuMl1z9dU8VQIxaNtP36x"
-secret = "IKmioFZWqvu2zH2c6HfwJNmHczh1aAnYzlnJUerw"
+access = ""
+secret = ""
 
 def get_target_price(ticker, k):
     """변동성 돌파 전략으로 매수 목표가 조회"""
